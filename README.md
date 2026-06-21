@@ -63,12 +63,18 @@ My background is concentrated around informatics and AI with work on machine lea
 ## Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hggfhggf&show_icons=true&theme=graywhite&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hggfhggf&layout=compact&theme=graywhite&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hggfhggf&show_icons=true&theme=transparent&hide_border=true&title_color=111111&text_color=111111&icon_color=111111&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hggfhggf&layout=compact&theme=transparent&hide_border=true&title_color=111111&text_color=111111" height="165" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hggfhggf&bg_color=ffffff&color=111111&line=111111&point=111111&area=true&hide_border=true&custom_title=Contribution%20Histogram" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hggfhggf&theme=flat&no-frame=true&no-bg=true&margin-w=8" />
+</p>
 ---
 
 <p align="center">
-  Open to AI research, olympiad-level problem solving, and machine learning collaborations.
+  Open to AI research and machine learning collaborations. Reach me personally through above links.
 </p>
