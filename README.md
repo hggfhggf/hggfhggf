@@ -17,9 +17,9 @@
 
 ## About me
 
-I'm a student from Kazakhstan interested in cutting-edge AI research. Specifically, natural language processing, segmentation, and computer vision.
+I'm a student from Kazakhstan interested in frontier AI research. My fields of research are natural language processing, segmentation, and computer vision.
 
-My background is concentrated around informatics and AI with work on machine learning competitions and research.
+My background is concentrated around informatics and AI with work on various international competitions.
 
 ---
 
@@ -70,11 +70,8 @@ My background is concentrated around informatics and AI with work on machine lea
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hggfhggf&bg_color=ffffff&color=111111&line=111111&point=111111&area=true&hide_border=true&custom_title=Contribution%20Histogram" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hggfhggf&theme=flat&no-frame=true&no-bg=true&margin-w=8" />
-</p>
 ---
 
 <p align="center">
-  Open to AI research and machine learning collaborations. Reach me personally through above links.
+  Open to AI and machine learning research/collaborations. Reach me personally through social links.
 </p>
