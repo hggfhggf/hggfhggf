@@ -70,6 +70,7 @@ My background is concentrated around informatics and AI with work on various int
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hggfhggf&bg_color=ffffff&color=111111&line=111111&point=111111&area=true&hide_border=true&custom_title=Contribution%20Histogram" />
 </p>
+
 ---
 
 <p align="center">
