@@ -3,20 +3,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/hggfhggf">
-    <img src="https://img.shields.io/badge/GitHub-hggfhggf-111111?style=flat-square&logo=github&logoColor=white" />
-  </a>
   <a href="https://codeforces.com/profile/Away_in_the_heavens">
     <img src="https://img.shields.io/badge/Codeforces-Away__in__the__heavens-111111?style=flat-square&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://www.kaggle.com/aithbb">
     <img src="https://img.shields.io/badge/Kaggle-aithbb-111111?style=flat-square&logo=kaggle&logoColor=white" />
   </a>
-  <a href="https://qoj.ac/blog/atm10/aboutme">
-    <img src="https://img.shields.io/badge/QOJ-atm10-111111?style=flat-square" />
-  </a>
-  <a href="https://www.instagram.com/lego_mozg/">
-    <img src="https://img.shields.io/badge/Instagram-lego__mozg-111111?style=flat-square&logo=instagram&logoColor=white" />
+  <a href="https://t.me/dauzhen">
+    <img src="https://img.shields.io/badge/Telegram-dauzhen-111111?style=flat-square&logo=telegram&logoColor=white" />
   </a>
 </p>
 
@@ -24,9 +18,9 @@
 
 ## About me
 
-I'm a student from Kazakhstan interested in cutting-edge AI research, especially natural language processing, segmentation, and computer vision.
+I'm a student from Kazakhstan interested in cutting-edge AI research. Specifically, natural language processing, segmentation, and computer vision.
 
-My background combines international olympiad experience in informatics and AI with practical work on machine learning competitions and research-style projects.
+My background is concentrated around informatics and AI with work on machine learning competitions and research.
 
 ---
 
@@ -66,17 +60,6 @@ My background combines international olympiad experience in informatics and AI w
   <img src="https://img.shields.io/badge/C++-111111?style=flat-square&logo=cplusplus&logoColor=white" />
 </p>
 
----
-
-## Selected directions
-
-- Natural language processing and language models
-- Computer vision and image understanding
-- Segmentation and pixel-level reasoning
-- Competitive programming and algorithmic problem solving
-- Kaggle-style applied machine learning
-
----
 
 ## Stats
 
