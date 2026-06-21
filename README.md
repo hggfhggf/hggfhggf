@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=700&color=111111&center=true&vCenter=true&width=900&lines=Student+from+Kazakhstan;AI+%2F+NLP+%2F+Computer+Vision;Competitive+Programming+%2B+Research+Mindset;IOAI+%E2%80%A2+IOI+%E2%80%A2+IZhO" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=700&color=111111&center=true&vCenter=true&width=900&lines=Dauzhan+Beketov;Almaty,+Kazakhstan;NLP,+Computer+Vision,+Segmentation;Informatics+and+Machine+Learning" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <a href="https://codeforces.com/profile/Away_in_the_heavens">
     <img src="https://img.shields.io/badge/Codeforces-Away__in__the__heavens-111111?style=flat-square&logo=codeforces&logoColor=white" />
